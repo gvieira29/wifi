@@ -1,7 +1,7 @@
 # FEIRA MAKER UNESP 2019
 # COMO MELHORAR SUA REDE WIFI
 
-**Melhore o sinal do seu roteador e melhore a segurança**
+Como melhorar seu sinal wifi amplificando o sinal, e, como melhorar a segurança da sua rede. 
 
 ### Desvantagens
 
