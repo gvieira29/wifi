@@ -1,8 +1,8 @@
 # FEIRA MAKER UNESP
 # MELHORE SEU WIFI CONSTRUINDO UM AMPLIFICADOR DE SINAL, E A SEGURANÇA DA REDE
 - ### ROTEADOR WIFI: MELHORANDO A QUALIDADE DE SINAL E A SEGURANÇA DA REDE
-  [](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/e7d8722cee2152652ca87b1b36bcae58.png)
-  
+  ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/e7d8722cee2152652ca87b1b36bcae58.png)
+
 ## O QUE É
 
   - O roteador *wireless* tem seu nome que significa:
