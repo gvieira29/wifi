@@ -1,7 +1,25 @@
-# FEIRA MAKER UNESP 2019
-# COMO MELHORAR SUA REDE WIFI
+# FEIRA MAKER UNESP
+# ROTEADOR WIFI: COMO MELHORAR QUALIDADE DO SINAL, E A SEGURANÇA DA REDE
 
-Como melhorar seu sinal wifi amplificando o sinal, e, como melhorar a segurança da sua rede. 
+## O QUE É
+
+  - O roteador *wireless* tem seu nome que significa:
+    - *wire* - fio
+    - *less* - livre
+  - ***Wi-Fi*** é uma marca registrada da **Wi-Fi Alliance**. É utilizada por produtos certificados que pertencem à classe de dispositivos de rede local sem fios (WLAN) baseados no padrão IEEE 802.11. Por causa do relacionamento íntimo com seu padrão de mesmo nome, o termo Wi-Fi é usado frequentemente como sinônimo para a tecnologia IEEE 802.11.  
+  - As principais tecnologias do padrão 802.11: a/b/g/n/ac/ad, a velocidade e a frequência varia de uma tecnologia para outra.  
+  - As tecnologias sem fio mais utilizadas são:
+    - [bluetooth]()
+    - [banda larga celular]()
+    - [satélite]()
+    - [wifi]()
+    
+
+## COMO FUNCIONA
+
+## ONDE E COMO SUEGIU
+
+## QUAL A UTILIDADE
 
 ### Desvantagens
 
@@ -19,7 +37,26 @@ Como melhorar seu sinal wifi amplificando o sinal, e, como melhorar a segurança
   por um hacker com equipamento especial e bons
   conhecimentos de informática.
 
-  ### Diversos
+### Diversos
 
 - Observação: as redes WLAN operam na faixa de frequência
   ISM de 2,4 GHz e na faixa UNII de 5 GHz.
+
+### Radiofrequẽncia
+
+- Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International)     
+  Telecommunication Union, Radiocommunication Sector – Setor de Radiocomunicação da União Internacional de Telecomunicações) é    
+  responsável por regular a alocação de espectros de radiofrequências (RF).
+
+- Os intervalos de frequências, chamados de faixas, são alocados para diversas finalidades. Algumas faixas de espectro
+  eletromagnético são altamente regulamentadas e são usadas para aplicações, como redes de comunicação de controle de tráfego 
+  aéreo e de equipes de socorristas. Outras faixas são de uso livre, como as faixas de frequência industrial, científica e médica 
+  (ISM) e a infraestrutura de informações nacionais (UNII).
+
+  Devido a obstáculos que se encontram no meio das transmissões
+e recepções wireless LAN, o sinal tende a ser:
+– refletido
+– refratado
+– difratado
+– espalhado
+– absorvido
