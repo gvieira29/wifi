@@ -1,4 +1,3 @@
-# FEIRA MAKER UNESP
 # MELHORE SEU WIFI CONSTRUINDO UM AMPLIFICADOR DE SINAL, E A SEGURANÇA DA REDE
 - ### ROTEADOR WIFI: MELHORANDO A QUALIDADE DE SINAL E A SEGURANÇA DA REDE
   ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/e7d8722cee2152652ca87b1b36bcae58.png)
@@ -11,11 +10,10 @@
   - ***Wi-Fi*** é uma marca registrada da **Wi-Fi Alliance**. É utilizada por produtos certificados que pertencem à classe de dispositivos de rede local sem fios (WLAN) baseados no padrão IEEE 802.11. Por causa do relacionamento íntimo com seu padrão de mesmo nome, o termo Wi-Fi é usado frequentemente como sinônimo para a tecnologia IEEE 802.11.  
   - As principais tecnologias do padrão 802.11: a/b/g/n/ac/ad, a velocidade e a frequência varia de uma tecnologia para outra.  
   - As tecnologias sem fio mais utilizadas são:
-    - [bluetooth]()
+    - ![wifi](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/wifi.png)
+    - ![bluetooth](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/bt.png)
     - [banda larga celular]()
     - [satélite]()
-    - [wifi]()
-    
 
 ## COMO FUNCIONA
 
@@ -62,3 +60,11 @@ e recepções wireless LAN, o sinal tende a ser:
 – difratado
 – espalhado
 – absorvido
+
+# REFERÊNCIAS
+  - [FATEC - Faculdade de Tecnologia](http://www.fatecbauru.edu.br/) - [www.fatecbauru.edu.br](http://www.fatecbauru.edu.br/) 
+  - [youtu.be/TGg3U_KO5Y0](https://youtu.be/TGg3U_KO5Y0) - Manual do Mundo, Turbinar Wi-Fi com LATA DE ALUMÍNIO realmente funciona?
+  - [github.com/gvieira29/wifi](https://github.com/gvieira29/wifi) - GitHub  
+    ```
+    ~$ www.vestibularfatec.com.br  Inscrições De 15/10 até 11/11/2019
+    ```
