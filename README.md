@@ -26,11 +26,16 @@
   - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)    
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)  
- - antena omni-direcional  
+  - antena omni-direcional  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
- - antena semidirecional
- - antena direcional
- - Observação: as redes WLAN operam na faixa de frequência ISM de 2,4 GHz e na faixa UNII de 5 GHz.
+  - antena semidirecional
+  - antena direcional
+  - Observação: as redes WLAN operam na faixa de frequência ISM de 2,4 GHz e na faixa UNII de 5 GHz.  
+  
+  **HOTSPOT**
+
+  - São pontos de acesso wireless que permitem ao usuário conectar-se na internet estando em locais públicos como aeroportos shoppings, hotéis, cafeterias, etc.  
+  - Basta um laptop com um PCCard e uma conta de acesso da provedora do serviço para estar navegando na internet nesses locais, não esquecendo que o usuário é cobrado pelo uso do serviço.  
 
 ## ONDE E COMO SURGIU
 
