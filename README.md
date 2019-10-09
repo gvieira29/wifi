@@ -17,6 +17,11 @@
 
 ## COMO FUNCIONA
 
+ - transmissao de ondas
+ - antena omni-direcional
+ - antena semidirecional
+ - antena direcional
+
 ## ONDE E COMO SUEGIU
 
 ## QUAL A UTILIDADE
