@@ -1,6 +1,6 @@
 # MELHORE SEU WIFI CONSTRUINDO UM AMPLIFICADOR DE SINAL, E A SEGURANÇA DA REDE
 - ### ROTEADOR WIFI: MELHORANDO A QUALIDADE DE SINAL E A SEGURANÇA DA REDE
-  ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/e7d8722cee2152652ca87b1b36bcae58.png)
+  ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/latawifi.png)
 
 ## O QUE É
 
@@ -15,7 +15,7 @@
     - Bluetooth   
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
     - Banda Larga Móvel  
-      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.jpg)![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.jpg)
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.png)![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.png)
     - Satélite
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
 
