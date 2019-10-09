@@ -16,7 +16,8 @@
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
     - Banda Larga Móvel  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.jpg)![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.jpg)
-    - [satélite](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
+    - Satélite
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
 
 ## COMO FUNCIONA
 
