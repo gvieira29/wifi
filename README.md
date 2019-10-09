@@ -15,14 +15,16 @@
     - Bluetooth   
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
     - Banda Larga Móvel  
-      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.png)![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.png)
-    - Satélite
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.png)  
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.png)  
+    - Satélite  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
 
 ## COMO FUNCIONA
 
  - transmissao de ondas
  - antena omni-direcional
+   ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)
  - antena semidirecional
  - antena direcional
 
