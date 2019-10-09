@@ -30,12 +30,15 @@
 
 ## COMO FUNCIONA
   
-  - *WLAN's* usam ondas de radio para transmissão de dados. Comumente podem transmitir na faixa de frequência 2.4 Ghz ou 5 Ghz.  
-  - 
+  - *WLAN's* usam ondas de radio para transmissão de dados. Comumente podem transmitir na faixa de frequência 2.4 Ghz ou 5 Ghz. Comunicações sem fio utilizam-se de ondas eletromagnéticas para o
+envio de sinais através de longas distâncias.
+  
   - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)    
-  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)
+
+  - Existem canais e frequências diferentes para transmissão de ondas:  
+      
   - **Antena Omni-Direcional**  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-omni.png)  
@@ -47,6 +50,11 @@
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-direcional.png) 
   
   - Observação: as redes WLAN operam na faixa de frequência ISM de 2,4 GHz e na faixa UNII de 5 GHz.  
+
+  - Ondas de rádio têm algumas propriedades inesperadas se comparadas com o cabo de Ethernet, Por exemplo, é muito fácil ver o caminho que o cabo Ethernet faz: localize o conector que sai de seu computador, siga o cabo até a outra ponta e você descobriu.  
+    Mas como você sabe para onde as ondas que emanam de seu cartão wireless estão indo? O que acontece quando estas ondas chocam-se com os objetos da sua sala ou com os prédios de sua conexão externa? Como vários cartões wireless podem ser usados na mesma área, sem que um interfira com o outro?  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/canal.png)  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/melhor-canal.png)  
   
   **HOTSPOT**
 
@@ -68,7 +76,7 @@
   
   - Os equipamentos *Wireless* tem baixo consumo de energia elétrica e são projetados para ficarem permanentemente ligados. Com isto, a rede local e a conexão com a Internet está disponível 24 h.  
   
-  - Problemas de Propagação: As ondas eletromagnéticas na frequência de 2,4 GHz
+  - **Problemas de Propagação:** As ondas eletromagnéticas na frequência de 2,4 GHz
   encontram dificuldades para se propagar através de paredes
   grossas de alvenaria, lajes de concreto armado, bem quando
   existem grades e portões metálicos no local.  
