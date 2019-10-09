@@ -23,7 +23,7 @@
 ## COMO FUNCIONA
 
  - transmissao de ondas
- - antena omni-direcional
+ - antena omni-direcional  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)
  - antena semidirecional
  - antena direcional
