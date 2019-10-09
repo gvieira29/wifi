@@ -67,7 +67,7 @@ e recepções wireless LAN, o sinal tende a ser:
 ## MELHORANDO A SEGURANÇA DA REDE
 
   Todos os roteadores *wi-fi* possuem uma configuração padrão, em baixo dos dispositivos existe um selo com o login para configurações, o mais utilizado é o `192.168.0.1`, e para logar basta utilizar as credenciais fornecidas, no noso caso, usuario e senha é `admin`. 
-  - ***Lebrando que as configurações de cada um pode variar de cada modelo e fabricante.   
+  - ***Lebrando que as configurações de cada um pode variar de cada modelo e fabricante.***   
   - Para começãr, abra o navegador e entre no endereço fornecido pelo seu dispositivo. Vamos inserir o nosso `192.168.1.1`.
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/modem/1.png)
   - Na primeira tela teremos algumas informações sobre o sistema, como IP da rede, tipo de conexão, endereço MAC, etc.  
