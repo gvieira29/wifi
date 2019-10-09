@@ -30,11 +30,9 @@
  - antena semidirecional
  - antena direcional
 
-## ONDE E COMO SUEGIU
+## ONDE E COMO SURGIU
 
 ## QUAL A UTILIDADE
-
-### Desvantagens
 
 - Problemas de Propagação: As ondas eletromagnéticas na frequência de 2,4 GHz
   encontram dificuldades para se propagar através de paredes
@@ -50,14 +48,8 @@
   por um hacker com equipamento especial e bons
   conhecimentos de informática.
 
-### Diversos
-
 - Observação: as redes WLAN operam na faixa de frequência
   ISM de 2,4 GHz e na faixa UNII de 5 GHz.
-
-### Radiofrequẽncia
-
-
 
 - Os intervalos de frequências, chamados de faixas, são alocados para diversas finalidades. Algumas faixas de espectro
   eletromagnético são altamente regulamentadas e são usadas para aplicações, como redes de comunicação de controle de tráfego 
