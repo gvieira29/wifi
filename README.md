@@ -1,6 +1,6 @@
 # MELHORE SEU WIFI CONSTRUINDO UM AMPLIFICADOR DE SINAL, E A SEGURANÇA DA REDE
 - ### ROTEADOR WIFI: MELHORANDO A QUALIDADE DE SINAL E A SEGURANÇA DA REDE
-  ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/e7d8722cee2152652ca87b1b36bcae58.png)
+  ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/e7d8722cee2152652ca87b1b36bcae58.png)
 
 ## O QUE É
 
@@ -11,11 +11,12 @@
   - As principais tecnologias do padrão 802.11: a/b/g/n/ac/ad, a velocidade e a frequência varia de uma tecnologia para outra.  
   - As tecnologias sem fio mais utilizadas são:
     - WiFi  
-      ![wifi](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)
-    - Bluetooth
-      ![bluetooth](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
-    - [banda larga celular]()
-    - [satélite]()
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)
+    - Bluetooth   
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
+    - Banda Larga Móvel  
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.jpg)![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.jpg)
+    - [satélite](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
 
 ## COMO FUNCIONA
 
