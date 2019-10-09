@@ -73,6 +73,7 @@ e recepções wireless LAN, o sinal tende a ser:
 – absorvido
 
 # REFERÊNCIAS
+  ![](https://raw.githubusercontent.com/gvieira29/fatec/master/_assets/fatec-logo.jpg)
   - [FATEC - Faculdade de Tecnologia](http://www.fatecbauru.edu.br/) - [www.fatecbauru.edu.br](http://www.fatecbauru.edu.br/) 
   - [youtu.be/TGg3U_KO5Y0](https://youtu.be/TGg3U_KO5Y0) - Manual do Mundo, Turbinar Wi-Fi com LATA DE ALUMÍNIO realmente funciona?
   - [github.com/gvieira29/wifi](https://github.com/gvieira29/wifi) - GitHub  
