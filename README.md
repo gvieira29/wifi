@@ -62,12 +62,21 @@
   encontram dificuldades para se propagar através de paredes
   grossas de alvenaria, lajes de concreto armado, bem quando
   existem grades e portões metálicos no local.  
-  Devido a obstáculos que se encontram no meio das transmissões e recepções wireless LAN, o sinal tende a ser:  
-  - Refletido
-  - Refratado
-  - Difratado
-  - Espalhado
-  - Absorvido
+  Devido a obstáculos que se encontram no meio das transmissões e recepções wireless LAN, o sinal tende sofrer:  
+  - *Reflexão*  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/reflexao.png)
+  
+  - *Refração*  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/refracao.png)
+  
+  - *Difração*  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/difracao.png)
+  
+  - *Espelhado*  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/espalhamento.png)
+  
+  - *Absorção*  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/absorvido.png)
 
 ## MELHORANDO A SEGURANÇA DA REDE
 
