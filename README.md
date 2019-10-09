@@ -7,31 +7,41 @@
   - O roteador *wireless* tem seu nome que significa:
     - *wire* - fio
     - *less* - livre
+  
   - ***Wi-Fi*** é uma marca registrada da **Wi-Fi Alliance**. É utilizada por produtos certificados que pertencem à classe de dispositivos de rede local sem fios (WLAN) baseados no padrão IEEE 802.11. Por causa do relacionamento íntimo com seu padrão de mesmo nome, o termo Wi-Fi é usado frequentemente como sinônimo para a tecnologia IEEE 802.11.  
+  
   - As principais tecnologias do padrão 802.11: a/b/g/n/ac/ad, a velocidade e a frequência varia de uma tecnologia para outra.  
+  
   - As tecnologias sem fio mais utilizadas são:
-    - WiFi  
+    - ***WiFi***  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)
-    - Bluetooth   
+    
+    - ***Bluetooth***   
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
-    - Banda Larga Móvel  
+    
+    - ***Banda Larga Móvel***  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.png)  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.png)  
-    - Satélite  
+    
+    - ***Satélite***  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
 
 ## COMO FUNCIONA
-
-  ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)  
+  
   - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)    
+  
   - **Antena Omni-Direcional**  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-omni.png)  
+  
   - **Antena Semi-Direcional**  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-semi.png)  
+  
   - **Antena Direcional**  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-direcional.png) 
+  
   - Observação: as redes WLAN operam na faixa de frequência ISM de 2,4 GHz e na faixa UNII de 5 GHz.  
   
   **HOTSPOT**
