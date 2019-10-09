@@ -10,8 +10,10 @@
   - ***Wi-Fi*** é uma marca registrada da **Wi-Fi Alliance**. É utilizada por produtos certificados que pertencem à classe de dispositivos de rede local sem fios (WLAN) baseados no padrão IEEE 802.11. Por causa do relacionamento íntimo com seu padrão de mesmo nome, o termo Wi-Fi é usado frequentemente como sinônimo para a tecnologia IEEE 802.11.  
   - As principais tecnologias do padrão 802.11: a/b/g/n/ac/ad, a velocidade e a frequência varia de uma tecnologia para outra.  
   - As tecnologias sem fio mais utilizadas são:
-    - ![wifi](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)
-    - ![bluetooth](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
+    - WiFi  
+      ![wifi](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)
+    - Bluetooth
+      ![bluetooth](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
     - [banda larga celular]()
     - [satélite]()
 
