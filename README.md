@@ -53,7 +53,8 @@ envio de sinais através de longas distâncias.
     Mas como você sabe para onde as ondas que emanam de seu cartão wireless estão indo? O que acontece quando estas ondas chocam-se com os objetos da sua sala ou com os prédios de sua conexão externa? Como vários cartões wireless podem ser usados na mesma área, sem que um interfira com o outro?  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/canal.png)  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/melhor-canal.png)  
-  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/interferencia.png)  
+
   **HOTSPOT**
 
   - São pontos de acesso wireless que permitem ao usuário conectar-se na internet estando em locais públicos como aeroportos shoppings, hotéis, cafeterias, etc.  
