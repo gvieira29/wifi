@@ -30,8 +30,10 @@
 
 ## COMO FUNCIONA
   
+  - *WLAN's* usam ondas de radio para transmissão de dados. Comumente podem transmitir na faixa de frequência 2.4 Ghz ou 5 Ghz.  
+  - 
   - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)    
   
   - **Antena Omni-Direcional**  
@@ -49,22 +51,29 @@
   **HOTSPOT**
 
   - São pontos de acesso wireless que permitem ao usuário conectar-se na internet estando em locais públicos como aeroportos shoppings, hotéis, cafeterias, etc.  
+  
   - Basta um laptop com um PCCard e uma conta de acesso da provedora do serviço para estar navegando na internet nesses locais, não esquecendo que o usuário é cobrado pelo uso do serviço.  
 
 ## ONDE E COMO SURGIU
 
   - As Redes sem fio ou wireless (WLANs) surgiram da mesma forma que muitas outras tecnologias, no meio militar. Havia a necessidade de implementação de um método simples e seguro para troca de informações em ambiente de combate.  
+  
   - O tempo passou e a tecnologia evoluiu, deixando de ser restrita ao meio militar e se tornou acessível a empresas, faculdades e ao usuário doméstico. Nos dias de hoje podemos pensar em redes wireless como uma alternativa bastante interessante em relação as redes cabeadas.  
 
 ## QUAL A UTILIDADE
 
   - Suas aplicações são muitas e variadas e o fato de ter a mobilidade como principal característica, tem facilitado sua aceitação, principalmente nas empresas.  
+  
   - Sistemas de Acessos Wireless podem prover aos usuários acesso à Internet em tempo real em qualquer lugar, dentro da área de cobertura.  
+  
+  - Os equipamentos *Wireless* tem baixo consumo de energia elétrica e são projetados para ficarem permanentemente ligados. Com isto, a rede local e a conexão com a Internet está disponível 24 h.  
+  
   - Problemas de Propagação: As ondas eletromagnéticas na frequência de 2,4 GHz
   encontram dificuldades para se propagar através de paredes
   grossas de alvenaria, lajes de concreto armado, bem quando
   existem grades e portões metálicos no local.  
   Devido a obstáculos que se encontram no meio das transmissões e recepções wireless LAN, o sinal tende sofrer:  
+  
   - *Reflexão*  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/reflexao.png)
   
@@ -79,6 +88,15 @@
   
   - *Absorção*  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/absorvido.png)
+
+  - Hoje em dia a utilização das WLANs deixou de estar restrito a grandes empresas ou faculdades. Com os preços dos equipamentos mais acessíveis, elas acabaram atraindo a atenção do usuário comum devido a sua ampla gama de possibilidades de utilização. Os mais comuns são:
+    - Expansão da Rede Cabeada  
+    - Conexão entre prédios  
+    - Serviços de Última Milha  
+    - Mobilidade  
+    - Escritórios Móveis  
+    - Hotspots  
+    - Uso doméstico  
 
 ## MELHORANDO A SEGURANÇA DA REDE
 
