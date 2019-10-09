@@ -29,6 +29,7 @@
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
  - antena semidirecional
  - antena direcional
+ - Observação: as redes WLAN operam na faixa de frequência ISM de 2,4 GHz e na faixa UNII de 5 GHz.
 
 ## ONDE E COMO SURGIU
 
@@ -38,31 +39,13 @@
   encontram dificuldades para se propagar através de paredes
   grossas de alvenaria, lajes de concreto armado, bem quando
   existem grades e portões metálicos no local.
-
-- Problemas de Invasão: As redes WiFi não são consideradas perfeitamente seguras e
-  muitas empresas relutam em adotá-las por causa deste
-  aspecto.
-  A criptografia de 64 bits pode ser quebrada por um programa
-  chacker em cerca de 15 dias e a de 128 bits em 30 dias.
-  A proteção por cadastro do MAC-address pode ser burlada
-  por um hacker com equipamento especial e bons
-  conhecimentos de informática.
-
-- Observação: as redes WLAN operam na faixa de frequência
-  ISM de 2,4 GHz e na faixa UNII de 5 GHz.
-
-- Os intervalos de frequências, chamados de faixas, são alocados para diversas finalidades. Algumas faixas de espectro
-  eletromagnético são altamente regulamentadas e são usadas para aplicações, como redes de comunicação de controle de tráfego 
-  aéreo e de equipes de socorristas. Outras faixas são de uso livre, como as faixas de frequência industrial, científica e médica 
-  (ISM) e a infraestrutura de informações nacionais (UNII).
-
-  Devido a obstáculos que se encontram no meio das transmissões
-e recepções wireless LAN, o sinal tende a ser:
-– refletido
-– refratado
-– difratado
-– espalhado
-– absorvido
+  
+  Devido a obstáculos que se encontram no meio das transmissões e recepções wireless LAN, o sinal tende a ser:
+  - Refletido
+  - Refratado
+  - Difratado
+  - Espalhado
+  - Absorvido
 
 ## MELHORANDO A SEGURANÇA DA REDE
 
