@@ -34,10 +34,13 @@
 
 ## ONDE E COMO SURGIU
 
+  - As Redes sem fio ou wireless (WLANs) surgiram da mesma forma que muitas outras tecnologias, no meio militar. Havia a necessidade de implementação de um método simples e seguro para troca de informações em ambiente de combate.  
+  - O tempo passou e a tecnologia evoluiu, deixando de ser restrita ao meio militar e se tornou acessível a empresas, faculdades e ao usuário doméstico. Nos dias de hoje podemos pensar em redes wireless como uma alternativa bastante interessante em relação as redes cabeadas.  
+
 ## QUAL A UTILIDADE
 
+  - Suas aplicações são muitas e variadas e o fato de ter a mobilidade como principal característica, tem facilitado sua aceitação, principalmente nas empresas.  
   - Sistemas de Acessos Wireless podem prover aos usuários acesso à Internet em tempo real em qualquer lugar, dentro da área de cobertura.  
-
   - Problemas de Propagação: As ondas eletromagnéticas na frequência de 2,4 GHz
   encontram dificuldades para se propagar através de paredes
   grossas de alvenaria, lajes de concreto armado, bem quando
