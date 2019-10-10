@@ -22,11 +22,12 @@
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
     
     - ***Banda Larga Móvel***  
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g2.png)  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g.png)  
-      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g4g.png)  
     
     - ***Satélite***  
-      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/satelite.png)
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/sky.png)  
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/parabolica.png)
 
 ## COMO FUNCIONA
   
