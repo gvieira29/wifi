@@ -1,8 +1,10 @@
 ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/fatec-wifi.png)  
 
+
 # MELHORE SEU WIFI CONSTRUINDO UM AMPLIFICADOR DE SINAL, E A SEGURANÇA DA REDE
 - ### ROTEADOR WIFI: MELHORANDO A QUALIDADE DE SINAL E A SEGURANÇA DA REDE
   ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/latawifi.png)
+
 
 ## O QUE É
 
@@ -16,10 +18,12 @@
   
   - As tecnologias sem fio mais utilizadas são:
     - ***WiFi***  
-      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)  
+      Protocolo IEEE 802.11.*
     
     - ***Bluetooth***   
-      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)  
+      *Protocolo IEEE 802.15.*
     
     - ***Banda Larga Móvel***  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/3g2.png)  
@@ -29,11 +33,68 @@
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/sky.png)  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/parabolica.png)
 
+    - ***WiMAX***  
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wimax.png)  
+      *Protocolo IEEE 802.16.*
+      
+
 ## COMO FUNCIONA
   
   - *WLAN's* usam ondas de radio para transmissão de dados. Comumente podem transmitir na faixa de frequência 2.4 Ghz ou 5 Ghz. Comunicações sem fio utilizam-se de ondas eletromagnéticas para o
-envio de sinais através de longas distâncias.
-  
+envio de sinais através de longas distâncias.  
+
+  - Os dispositivos de LAN sem fio têm transmissores e receptores ajustados às frequências específicas de ondas de rádio. Especificamente, as seguintes faixas de frequência são atribuídas às LANs sem fio 802.11:
+
+    - 2,4 GHz (UHF) – 802.11b/g/n/ad
+    - 5 GHz (SHF) – 802.11a/n/ac/ad
+    - 60 GHz (EHF) – 802.11ad
+
+  - Ondas de Rádio de Espectro Eletromagnético
+    
+    - Muito Baixa Frequência (VLF)
+      - Navegação de rádio
+      - Comunicação submarina
+      - Monitores sem fio de frequência cardíaca
+
+    - Baixa Frequência (LF)
+      - Navegação de rádio
+      - Rádio AM
+      - RFID (faixa de 13,56 MHz)
+
+    - Meio Físico Frequência (MF)
+      - Rádio AM
+      - Beacons de avalanche
+    
+    - Alta Frequência (HF)
+      - Rádio de ondas curtas
+      - Rádio CB (Citizens' Band – Faixa de cidadãos)
+      - RFID
+      - Telefone marítimo e via rádio móvel
+    
+    - Muito Alta Frequência (VHF)
+      - Rádio FM
+      - Televisão VHF
+    
+    - Ultra Alta Frequência (UHF)
+      - WLANs (2,4 GHz)
+      - Bluetooth
+      - Banda larga celular
+      - Televisão UHF
+      - Fornos de micro-ondas
+      - Sistemas de GPS
+    
+    - Super Alta Frequência (SHF)
+      - WLANs (5 GHz)
+      - Comunicação por micro-ondas
+      - Comunicação via satélite
+      - Radioastronomia
+      
+    - Extremamente Alta Frequência (EHF)
+      - WiGig WLANs (60 GHz)
+      - Sistemas de aterrissagem por radar
+      - Radioastronomia
+
+
   - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)
@@ -62,11 +123,13 @@ envio de sinais através de longas distâncias.
   
   - Basta um laptop com um PCCard e uma conta de acesso da provedora do serviço para estar navegando na internet nesses locais, não esquecendo que o usuário é cobrado pelo uso do serviço.  
 
+
 ## ONDE E COMO SURGIU
 
   - As Redes sem fio ou wireless (WLANs) surgiram da mesma forma que muitas outras tecnologias, no meio militar. Havia a necessidade de implementação de um método simples e seguro para troca de informações em ambiente de combate.  
   
   - O tempo passou e a tecnologia evoluiu, deixando de ser restrita ao meio militar e se tornou acessível a empresas, faculdades e ao usuário doméstico. Nos dias de hoje podemos pensar em redes wireless como uma alternativa bastante interessante em relação as redes cabeadas.  
+
 
 ## QUAL A UTILIDADE
 
@@ -106,6 +169,7 @@ envio de sinais através de longas distâncias.
     - Hotspots  
     - Uso doméstico  
 
+
 ## MELHORANDO A SEGURANÇA DA REDE
 
   Todos os roteadores *wi-fi* possuem uma configuração padrão, em baixo dos dispositivos existe um selo com o login para configurações, o mais utilizado é o `192.168.0.1`, e para logar basta utilizar as credenciais fornecidas, no noso caso, usuario e senha é `admin`. 
@@ -119,6 +183,7 @@ envio de sinais através de longas distâncias.
   - Na guia de ***segurança*** poderemos alterar a senha do dispositivo.  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/modem/4.png).  
     É recomendavel utilizar senhas complexas, com letras maiúsculas e minúsculas, numeros e caracteres epeciais, dificultando uma quebra de senha no caso de um malware tentar acesso.  
+
 
 # REFERÊNCIAS
   ![](https://raw.githubusercontent.com/gvieira29/fatec/master/_assets/fatec-logo.jpg)
