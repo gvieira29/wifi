@@ -14,12 +14,13 @@
   
   - ***Wi-Fi*** é uma marca registrada da **Wi-Fi Alliance**. É utilizada por produtos certificados que pertencem à classe de dispositivos de rede local sem fios (WLAN) baseados no padrão IEEE 802.11. Por causa do relacionamento íntimo com seu padrão de mesmo nome, o termo Wi-Fi é usado frequentemente como sinônimo para a tecnologia IEEE 802.11.  
   
-  - As principais tecnologias do padrão 802.11: a/b/g/n/ac/ad, a velocidade e a frequência varia de uma tecnologia para outra.  
+  - **As principais tecnologias do padrão 802.11: *a/b/g/n/ac/ad*, a velocidade e a frequência varia de uma tecnologia para outra.**  
   
   - As tecnologias sem fio mais utilizadas são:
+    
     - ***WiFi***  
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi.png)  
-      Protocolo IEEE 802.11.*
+      *Protocolo IEEE 802.11.*
     
     - ***Bluetooth***   
       ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/bt.png)  
@@ -39,43 +40,46 @@
       
 
 ## COMO FUNCIONA
+
+  - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
   
   - *WLAN's* usam ondas de radio para transmissão de dados. Comumente podem transmitir na faixa de frequência 2.4 Ghz ou 5 Ghz. Comunicações sem fio utilizam-se de ondas eletromagnéticas para o
 envio de sinais através de longas distâncias.  
 
   - Os dispositivos de LAN sem fio têm transmissores e receptores ajustados às frequências específicas de ondas de rádio. Especificamente, as seguintes faixas de frequência são atribuídas às LANs sem fio 802.11:
 
-    - 2,4 GHz (UHF) – 802.11b/g/n/ad
-    - 5 GHz (SHF) – 802.11a/n/ac/ad
-    - 60 GHz (EHF) – 802.11ad
+    - *2,4 GHz (UHF) – 802.11b/g/n/ad*
+    - *5 GHz (SHF) – 802.11a/n/ac/ad*
+    - *60 GHz (EHF) – 802.11ad*
 
-  - Ondas de Rádio de Espectro Eletromagnético
+  - **Ondas de Rádio de Espectro Eletromagnético**  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)
     
-    - Muito Baixa Frequência (VLF)
+    - **Muito Baixa Frequência (VLF)**
       - Navegação de rádio
       - Comunicação submarina
       - Monitores sem fio de frequência cardíaca
 
-    - Baixa Frequência (LF)
+    - **Baixa Frequência (LF)**
       - Navegação de rádio
       - Rádio AM
       - RFID (faixa de 13,56 MHz)
 
-    - Meio Físico Frequência (MF)
+    - **Meio Físico Frequência (MF)**
       - Rádio AM
       - Beacons de avalanche
     
-    - Alta Frequência (HF)
+    - **Alta Frequência (HF)**
       - Rádio de ondas curtas
       - Rádio CB (Citizens' Band – Faixa de cidadãos)
       - RFID
       - Telefone marítimo e via rádio móvel
     
-    - Muito Alta Frequência (VHF)
+    - **Muito Alta Frequência (VHF)**
       - Rádio FM
       - Televisão VHF
     
-    - Ultra Alta Frequência (UHF)
+    - **Ultra Alta Frequência (UHF)**
       - WLANs (2,4 GHz)
       - Bluetooth
       - Banda larga celular
@@ -83,21 +87,18 @@ envio de sinais através de longas distâncias.
       - Fornos de micro-ondas
       - Sistemas de GPS
     
-    - Super Alta Frequência (SHF)
+    - **Super Alta Frequência (SHF)**
       - WLANs (5 GHz)
       - Comunicação por micro-ondas
       - Comunicação via satélite
       - Radioastronomia
       
-    - Extremamente Alta Frequência (EHF)
+    - **Extremamente Alta Frequência (EHF)**
       - WiGig WLANs (60 GHz)
       - Sistemas de aterrissagem por radar
       - Radioastronomia
-
-
-  - Todos os dispositivos sem fio operam no intervalo de ondas de rádio de espectro eletromagnético. A ITU-R (International Telecommunication Union - Radiocommunication Sector) - Setor de Radiocomunicação da União Internacional de Telecomunicações - é responsável por regular a alocação de espectros de radiofrequências (RF).  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/wifi-res.png)  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)
+  
+  - **Antenas**  
       
   - **Antena Omni-Direcional**  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
