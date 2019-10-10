@@ -39,7 +39,7 @@ envio de sinais através de longas distâncias.
       
   - **Antena Omni-Direcional**  
    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
-   ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-omni.png)  
+   ![](_images/usadas/mapa-omni.png)  
   
   - **Antena Semi-Direcional**  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-semi.png)  
