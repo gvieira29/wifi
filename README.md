@@ -154,6 +154,15 @@ envio de sinais através de longas distâncias.
 
 ## QUAL A UTILIDADE
 
+  - Hoje em dia a utilização das WLANs deixou de estar restrito a grandes empresas ou faculdades. Com os preços dos equipamentos mais acessíveis, elas acabaram atraindo a atenção do usuário comum devido a sua ampla gama de possibilidades de utilização. Os mais comuns são:
+    - Expansão da Rede Cabeada  
+    - Conexão entre prédios  
+    - Serviços de Última Milha  
+    - Mobilidade  
+    - Escritórios Móveis  
+    - Hotspots  
+    - Uso doméstico 
+
   - Suas aplicações são muitas e variadas e o fato de ter a mobilidade como principal característica, tem facilitado sua aceitação, principalmente nas empresas.  
   
   - Sistemas de Acessos Wireless podem prover aos usuários acesso à Internet em tempo real em qualquer lugar, dentro da área de cobertura.  
@@ -179,16 +188,7 @@ envio de sinais através de longas distâncias.
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/espelhamento.png)
   
   - *Absorção*  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/absorvido.png)
-
-  - Hoje em dia a utilização das WLANs deixou de estar restrito a grandes empresas ou faculdades. Com os preços dos equipamentos mais acessíveis, elas acabaram atraindo a atenção do usuário comum devido a sua ampla gama de possibilidades de utilização. Os mais comuns são:
-    - Expansão da Rede Cabeada  
-    - Conexão entre prédios  
-    - Serviços de Última Milha  
-    - Mobilidade  
-    - Escritórios Móveis  
-    - Hotspots  
-    - Uso doméstico  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/absorvido.png) 
 
 
 ## MELHORANDO A SEGURANÇA DA REDE
