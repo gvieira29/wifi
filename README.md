@@ -104,25 +104,45 @@ envio de sinais através de longas distâncias.
   
   - Basta um laptop com um PCCard e uma conta de acesso da provedora do serviço para estar navegando na internet nesses locais, não esquecendo que o usuário é cobrado pelo uso do serviço.  
 
-  - **Antenas**  
+  - **Modelos de Antenas**  
       
-  - **Antena Omni-Direcional**  
-   ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
-   ![](_images/usadas/mapa-omni.png)  
+    - **Omni-Direcional**
+      - ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni-externa.png)  
+        *Modelo Externo*  
+      - ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni-interna.png)  
+        *Modelo Interno*
+
+      - ***Mapa de Radiação***
+        ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/omni.png)  
+        ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-omni.png)  
   
-  - **Antena Semi-Direcional**  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-semi.png)  
+    - **Antena Semi-Direcional**  
+      - ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/painel.png)
+        ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/semidirecional.png)  
+        ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/yagi.png)  
+        *Modelos Externos*  
+      - ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/semidirecionalpatch.png)  
+        *Modelo Interno*  
+        
+      - ***Mapa de Radiação***  
+      ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-semi.png)  
   
-  - **Antena Direcional**  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-direcional.png) 
+    - **Antena Direcional**  
+      - ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/antena-direcional.png)
+        ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/direcional.png)
+        *Modelo Externo*
+
+      - ***Mapa de Radiação*** 
+        ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/mapa-direcional.png) 
   
   - Observação: as redes WLAN operam na faixa de frequência ISM de 2,4 GHz e na faixa UNII de 5 GHz.  
 
   - Ondas de rádio têm algumas propriedades inesperadas se comparadas com o cabo de Ethernet, Por exemplo, é muito fácil ver o caminho que o cabo Ethernet faz: localize o conector que sai de seu computador, siga o cabo até a outra ponta e você descobriu.  
     Mas como você sabe para onde as ondas que emanam de seu cartão wireless estão indo? O que acontece quando estas ondas chocam-se com os objetos da sua sala ou com os prédios de sua conexão externa? Como vários cartões wireless podem ser usados na mesma área, sem que um interfira com o outro?  
+
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/canal.png)  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/melhor-canal.png)  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/interferencia.png)  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/melhorcanal.png)  
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/comodos.png)  
 
 
 ## ONDE E COMO SURGIU
@@ -156,7 +176,7 @@ envio de sinais através de longas distâncias.
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/difracao.png)
   
   - *Espelhado*  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/espalhamento.png)
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/espelhamento.png)
   
   - *Absorção*  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/absorvido.png)
