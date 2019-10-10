@@ -98,6 +98,12 @@ envio de sinais através de longas distâncias.
       - Sistemas de aterrissagem por radar
       - Radioastronomia
   
+    **HOTSPOT**
+
+  - São pontos de acesso wireless que permitem ao usuário conectar-se na internet estando em locais públicos como aeroportos shoppings, hotéis, cafeterias, etc.  
+  
+  - Basta um laptop com um PCCard e uma conta de acesso da provedora do serviço para estar navegando na internet nesses locais, não esquecendo que o usuário é cobrado pelo uso do serviço.  
+
   - **Antenas**  
       
   - **Antena Omni-Direcional**  
@@ -117,12 +123,6 @@ envio de sinais através de longas distâncias.
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/canal.png)  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/melhor-canal.png)  
     ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/interferencia.png)  
-
-  **HOTSPOT**
-
-  - São pontos de acesso wireless que permitem ao usuário conectar-se na internet estando em locais públicos como aeroportos shoppings, hotéis, cafeterias, etc.  
-  
-  - Basta um laptop com um PCCard e uma conta de acesso da provedora do serviço para estar navegando na internet nesses locais, não esquecendo que o usuário é cobrado pelo uso do serviço.  
 
 
 ## ONDE E COMO SURGIU
