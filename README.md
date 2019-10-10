@@ -53,7 +53,7 @@ envio de sinais através de longas distâncias.
     - *60 GHz (EHF) – 802.11ad*
 
   - **Ondas de Rádio de Espectro Eletromagnético**  
-    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf.png)
+    ![](https://raw.githubusercontent.com/gvieira29/wifi/master/_images/usadas/rf2.png)
     
     - **Muito Baixa Frequência (VLF)**
       - Navegação de rádio
